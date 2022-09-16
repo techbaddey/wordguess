@@ -8,10 +8,6 @@ let wordList = [
         hint: "That can be easily broken",
       },
       {
-        word: "memorize",
-        hint: "To learn something by heart",
-      },
-      {
         word: "miser",
         hint: "One that hardly spends money",
       },
@@ -24,18 +20,6 @@ let wordList = [
         hint: "To quote somethimg off hand",
       },
       {
-        word: "immortal",
-        hint: "Living forever (never dying)",
-      },
-      {
-        word: "biennial",
-        hint: "Occuring once in two years",
-      },
-      {
-        word: "biannual",
-        hint: "Occurng twice in a year",
-      },
-      {
         word: "precise",
         hint: "Brief, and to the point",
       },
@@ -44,20 +28,8 @@ let wordList = [
         hint: "That is fit for food",
       },
       {
-        word: "legitimate",
-        hint: "One that is born of married parents",
-      },
-      {
-        word: "incredible",
-        hint: "Difficult to believe",
-      },
-      {
         word: "visible",
         hint: "That which can be seen",
-      },
-      {
-        word: "literate",
-        hint: "Ability to read",
       },
       {
         word: "obscure",
